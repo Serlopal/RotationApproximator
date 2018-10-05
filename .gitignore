@@ -1,0 +1,11 @@
+
+.idea/
+__pycache__/
+test_case
+loss_evol.png
+hotfix.py
+report.docx
+report.pdf
+
+*.dll
+*.exe
